@@ -3,5 +3,5 @@ Este es un editor de texto en JavaFX tiene cosas que arreglar pero subo la versi
 
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1195033283818430557/1195034829763399790/image.png?ex=65ce356a&is=65bbc06a&hm=317c291b31e9e0ac139a2bda3b67279b44e00abfd0b300f91506ca97513a9a4a&" height="250px" />
+    <img src="https://media.discordapp.net/attachments/1195033283818430557/1195040703441539222/image.png?ex=65ce3ae2&is=65bbc5e2&hm=ff29d74f71093a97af8716e279d274db15b0e540563280fa03a3e796efed44a5&=&format=webp&quality=lossless" height="250px" />
 </div>
